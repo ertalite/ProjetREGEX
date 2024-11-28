@@ -1,0 +1,724 @@
+[Table des matières] 1
+    (417) [Index alphabétique] 422
+    (421) [Liste des auteurs] 426
+    (423) [Table des matières] 428
+    (427) [Errata] 432
+    Astronomie -1
+        (3) Note sur la comète IV de 1873 (P. HENRY) 8
+        (6) Le ciel au mois de décembre 1873 (A. GUILLEMIN) 11
+        (38) Comment voyez-vous la lune grosse ? (C. FLAMMARION) 43
+        (52) Passage de Vénus sur le disque solaire 57
+        (126) Le télescope d'un million de dollars 131
+        (133) Nouvelles du monde astronomique en Angleterre 138
+        (161) Les étoiles doubles (C. FLAMMARION) 166
+        (215) Préparatifs pour le passage de Vénus par le gouvernement anglo-indien 220
+        (257) Les derniers passages de Vénus (W. DE FONVIELLE) 262
+        (374) [idem] 379
+        (401) [idem] 406
+        (333) Jupiter et ses satellites le 25 mars 1874 (C. FLAMMARION) 338
+        (347) Conférences astronomiques du professeur Proctor, à New-York 352
+        (377) Un projet de télescope aux États-Unis 382
+        (389) La théorie des comètes de Tyndall (A. GUILLEMIN) 394
+            (15) Vénus prise pour une comète 20
+            (16) Les étoiles filantes de novembre 21
+            (30) Une nouvelle comète 35
+            (95) Passage de Vénus 100
+            (237) [idem] 242
+            (382) [idem] 387
+            (142) Éclipse d'un satellite de Jupiter 147
+            (255) La comète de Strasbourg 260
+            (270) Une statistique de nouvelles planètes 275
+            (271) Cadran solaire antique 276
+            (366) Les premières observations du passage de Vénus 371
+            (382) Curieuse occultation d'une étoile par la lune 387
+    Physique -1
+        (10) Les merveilles de la photographie (A. TISSANDIER) 15
+        (27) Les applications de la physique 32
+        (129) Exploseur magnéto-électrique de Breguet (A. NIAUDET) 134
+        (145) Le pyrophone 150
+        (156) Moteur électro-capillaire 161
+        (251) Modification apportée par le passage d'un courant électrique à la longueur d'un fil conducteur 256
+        (260) Action brisante d'une décharge électrique à travers l'eau 265
+        (289) La télégraphie et la presse anglaise 294
+        (323) Achromatisme optique et achromatisme chimique. (C.-M. GARIEL) 328
+        (358) [idem] 363
+        (353) Chronographe du Dr Marey (A. NIAUDET-BREGUET) 358
+        (395) Sidérostat de Foucault (A. FRAISSINET) 400
+        (406) L'Exposition de photographie (J. GIRARD) 411
+            (14) Le thermomètre métallique de l'impératrice de Russie 19
+            (30) Mesure de la force de projection des torpilles 35
+            (31) Analyse spectrale des étoiles 36
+            (62) Expériences spectroscopiques 67
+            (63) Petites glacières domestiques 68
+            (127) L'électricité contre le phylloxéra 132
+            (160) Balance de précision 165
+            (174) Nouveau câble transatlantique 179
+            (207) Densité des vapeurs 212
+            (239) Expériences sur la propagation du son dans l'atmosphère 244
+            (240) Étude photographique de la région extra-violette du spectre 245
+            (320) Étude optique des tuyaux sonores 325
+            (351) Conductibilité des roches pour la chaleur 356
+            (382) Un nouveau télégraphe transatlantique 387
+    Chimie -1
+        (34) Les tubes à effluves. Expériences récentes de M. Houzeau, travaux de MM. Paul et Arnould Thénard 39
+        (81) Le protoxyde d'azote (G. TISSANDIER) 86
+        (168) La photoglyptie (G. TISSANDIER) 173
+        (221) Le laboratoire de chimie de South Kensington Museum 226
+        (321) Essai des alliages d'or et d'argent de la monnaie de Londres, par l'analyse spectrale 326
+        (375) La théorie atomique à la Sorbonne (BERTILLON) 380
+        (387) Fabrication du lait concentré en Suisse (G. TISSANDIER) 392
+            (15) Perfectionnement au raffinage du sucre 20
+            (31) La levûre de bière 36
+            (80) Stabilité et métamorphoses réciproques des oxydes de l'azote 85
+            (111) L'azotite d'ammoniaque 116
+            (111) Papier réactif de l'urée 116
+            (112) Production des raphides d'oxalate de chaux 117
+            (127) Une nouvelle application du pétrole 132
+            (128) Thermochimie 133
+            (192) Charbon de sucre 197
+            (192) Le plomb et les eaux potables 197
+            (205) Cristallisation du verre 210
+            (222) La laque du Japon 227
+            (239) Dosage volumétrique du tannin 244
+            (240) Palladium hydrogéné 245
+            (256) La troïlite 261
+            (256) Acides tartriques 261
+            (256) Modifications allotropiques du phosphore 261
+            (271) Hydrure de potassium et hydrure de sodium 276
+            (271) Bronze japonais 276
+            (303) [idem] 308
+            (320) [idem] 325
+            (271) Endosmose 276
+            (350) Examen de la poudre 355
+            (351) Matières explosibles 356
+            (384) Parfum de Vanille 389
+            (398) Fusion du lingot de la commission du mètre 403
+    Sciences naturelles -1
+        (4) Le gisement de l'Endogenites echinatus 9
+        (10) Les abeilles à l'approche de l'hiver (ERNEST MENAULT) 15
+        (18) Le lamantin du Central-Park, à New-York (H. DE LA BLANCHÈRE) 23
+        (27) Les phoques du lac Baïkal 32
+        (33) Les nouvelles découvertes paléontologiques du professeur Marsh 38
+        (284) [idem] 289
+        (40) La chèvre angora en Amérique (H. DE LA BLANCHÈRE) 45
+        (41) Les tortues franches à Paris (W. DE FONVIELLE) 46
+        (43) Les abeilles travaillant sur commande 48
+        (60) Coupe géologique à travers les Pyrénées (F. GARRIGOU) 65
+        (57) Deux merveilles du Cap (S. MEUNIER) 62
+        (55) Le pic-vert, condamné à mort (E. MENAULT) 60
+        (83) Le macropode de la Chine (Dr. N. JOLY) 88
+        (91) Découvertes de fossiles en Amérique (H. DE LA BLANCHÈRE) 96
+        (97) Le nouveau Palæothérium du Muséum d'histoire naturelle 102
+        (99) Variation de couleur des fleurs (P. DUCHARTRE) 104
+        (109) La Conchyliologie 114
+        (113) Les anciens oiseaux des îles Mascareignes. -- La poule d'eau géante de l'île Maurice (E. OUSTALET) 118
+        (130) Une excursion géologique dans les Ardennes (S. MEUNIER) 135
+        (151) [idem] 156
+        (139) L'origine de la poule (H. DE LA BLANCHÈRE) 144
+        (156) Les caméléons 161
+        (172) Les infusoires (J. GIRARD) 177
+        (177) La reconstruction d'un squelette fossile 182
+        (186) La faune des couches profondes du lac Michigan 191
+        (193) De l'intervention des insectes dans la fécondation des fleurs 198
+        (296) [idem] 301
+        (194) L'oiseau à dents de l'argile de Londres (E. OUSTALET) 199
+        (196) Le Calmar géant de Conception Bay (H. DE LA BLANCHÈRE) 201
+        (199) Les nouveaux oiseaux de Paradis 204
+        (208) Les émeraudes de Muso (S. MEUNIER) 213
+        (215) Arbres extraordinaires 220
+        (218) Un naturaliste en Floride 223
+        (226) [idem] 231
+        (220) Les métamorphoses des insectes 225
+        (228) Le pays des geysers aux États-Unis 233
+        (230) Les crânes des races humaines fossiles (CH. LETORT) 235
+        (267) [idem] 272
+        (234) Les vampires du Jardin des plantes 239
+        (271) Le cerf Wapiti 276
+        (277) Terriers de Skye à oreilles droites (H. DE LA BLANCHÈRE) 282
+        (278) Les charmeurs de serpents et le professeur Richard Owen 283
+        (287) Crustacés rares ou nouveaux des côtes de France 292
+        (291) Les comédiens de la nature. -- La mouche-feuille des îles Seychelles (Dr. N. JOLY) 296
+        (315) Les tapirs (H. DE LA BLANCHÈRE) 320
+        (332) Un octopode gigantesque dans les mers du Japon 337
+        (337) Un aquarium microscopique 342
+        (360) Les poissons fossiles de Puteaux (S. MEUNIER) 365
+        (369) Phénomènes électriques qui accompagnent les mouvements des feuilles de la dionée attrape-mouches 374
+        (370) Les oiseaux de l'Inde au Jardin d'acclimatation (H. DE LA BLANCHÈRE) 375
+        (379) Les araignées en ménage (M. GIRARD) 384
+        (375) L'éléphant fossile de Durfort (Gard) (F. GARRIGOU) 380
+        (399) Le palmier de la Chine 404
+            (14) Troncs d'arbres pétrifiés dans le Colorado 19
+            (32) Rivage miocène 37
+            (30) Phénomène géologique 35
+            (47) La levûre de bière 52
+            (143) [idem] 148
+            (64) Les lièvres de Patagonie 69
+            (79) Hétérogénie 84
+            (95) [idem] 100
+            (96) Embryogénie de l'étoile de mer 101
+            (110) Les carpes jaunes du Jardin d'acclimatation 115
+            (143) Géologie arctique 148
+            (206) Nouveaux aquariums 211
+            (223) Fossiles d'Oran 228
+            (237) Une nouvelle grotte de stalactites 242
+            (239) La néphrite et la jadéite 244
+            (239) La Naturaleza 244
+            (254) Poissons souterrains de la Californie 259
+            (254) Découverte d'un bloc erratique sous-marin 259
+            (270) Le bambou, poison dangereux 275
+            (286) Nouvel arbre gigantesque 291
+            (286) Une exposition entomologique 291
+            (286) La pêche de la baleine dans les mers antarctiques 291
+            (287) La race de Cro-Magnon 292
+            (302) Une vigne digne de la terre de Chanaan 307
+            (303) Chronologie de la pierre 308
+            (334) Les moutons, bêtes de somme 339
+            (366) Les poissons du lac de Genève 371
+            (368) Cycadée miocène 373
+            (383) Un esturgeon monstre 388
+            (383) Le massacre des buffles en Amérique 388
+            (398) Une mule féconde 403
+    Météorologie. -- Physique du globe -1
+        (7) Les profondeurs de la mer 12
+        (20) Origines des Cyclones (F. ZURCHER) 25
+        (58) [idem] 63
+        (42) Rapport entre la périodicité des taches solaires et des Cyclones 47
+        (75) Le bureau météorologique de Londres (F. ZURCHER) 80
+        (106) [idem] 111
+        (101) L'expédition du Challenger 106
+        (393) [idem] 398
+        (151) Le Gulf-Stream (E. MARGOLLÉ) 156
+        (171) [idem] 176
+        (182) [idem] 187
+        (199) Le météorite de l'Académie des sciences de Stockholm 204
+        (202) L'aurore boréale du 4 février 1874 207
+        (261) [idem] 266
+        (260) Analyse micrographique de l'air de l'Hindoustan 265
+        (224) Sur un nouvel appareil pour enregistrer la direction des nuages (H. DE PARVILLE) 229
+        (235) La lithologie du fond des mers 240
+        (263) Les glaciers du Groënland (G. TISSANDIER) 268
+        (277) Bulletin du vulcanisme italien 282
+        (290) Les poussières atmosphériques (G. TISSANDIER) 295
+        (301) Mesure de la température de l'Océan (T. STEVENSON) 306
+        (304) Un coup de vent glacé dans l'Atlantique (G. T.) 309
+        (308) Une révolution thermométrique aux îles Falkland 313
+        (324) Les geysers et les volcans de boue (E. LANDRIN) 329
+        (336) Modification du cratère du Vésuve 341
+        (354) Signaux télégraphiques du temps (L. MARGOLLÉ) 359
+        (355) Météorologie générale 360
+        (363) Les explorations sous-marines 368
+        (376) Geological Survey 381
+        (394) Le club alpin français (G. TISSANDIER) 399
+            (15) Sondages dans la Méditerranée 20
+            (16) Les trombes et les taches solaires 21
+            (30) Tremblement de terre dans le Midi 35
+            (62) Sondages de l'océan Pacifique 67
+            (79) Le brouillard à Londres 84
+            (80) Tremblement de terre à Barcelone 85
+            (95) Trombes de mer 100
+            (110) Bulletin quotidien du service des signaux météorologiques en Amérique 115
+            (111) La neige en Italie 116
+            (128) Température souterraine 133
+            (143) Les poussières cosmiques 148
+            (158) Modifications du climat en Écosse 163
+            (192) Émanations acides des volcans 197
+            (207) [idem] 212
+            (206) Chaleurs extraordinaires à New-York 211
+            (223) Théorie des trombes 228
+            (223) Météorologie du Sahara 228
+            (239) Annuaire de l'observatoire de Montsouris 244
+            (255) Nouveaux tremblements de terre 260
+            (255) Les prédictions météorologiques de M. Ch. Sainte-Claire Deville 260
+            (255) La neige du mois de mars 260
+            (270) La météorologie danoise 275
+            (285) La grande marée de 1874 290
+            (334) [idem] 339
+            (287) Aigues-Mortes 292
+            (303) Un club alpin 308
+            (303) Froid exceptionnel dans les montagnes Rocheuses 308
+            (304) Tremblement de terre en Algérie 309
+            (399) Bolide aux environs de Marseille 404
+            (399) Observations thermométriques 404
+    Géographie. -- Voyages d'exploration -1
+        (17) Voyages et découvertes dans la Nouvelle-Guinée (JULES GIRARD) 22
+        (26) Le pays des diamants (G. M.) 31
+        (89) Les sources du Nil (G. MARCEL) 94
+        (103) [idem] 108
+        (119) [idem] 124
+        (149) Voyage d'un naturaliste en Océanie (J. GIRARD) 154
+        (178) Les îles Soulou (G. MARCEL) 183
+        (187) La géographie en 1873 (CH. BOISSAY) 192
+        (203) Le Brésil 208
+        (219) Les villes du Beni-Mzab (J. GIRARD) 224
+        (266) Les pays des Boërs 271
+        (283) [idem] 288
+        (310) Congrès international de géographie 315
+        (322) Les îles Sandwich (G. MARCEL) 327
+        (343) La guerre des Achantis. Les Fantis 348
+        (359) La Terre de feu 364
+        (368) Un révolté caffre 373
+        (389) Les Bermudes (H. BLERZY) 394
+        (410) David Livingstone et les explorations actuelles de l'Afrique équatoriale (AD. F. DE FONTPERTUIS) 415
+            (95) Exploration du fleuve Bleu par M. Francis Garnier 100
+            (192) Carte topographique du mont Blanc 197
+            (239) Nouveau système de projection cartographique 244
+            (254) Exploration de la Terre de feu 259
+            (255) Le pôle nord et les élections anglaises 260
+            (270) La géographie en Allemagne 275
+    Mécanique. -- Art de l'ingénieur -1
+        (48) Les briques creuses 53
+        (71) L'exploitation de la tourbe au Canada (L. LHÉRITIER) 76
+        (104) Les phares américains et les feux flottants (J. BRUNNER) 109
+        (112) Nouveau système de haut fourneau 117
+        (123) Les scaphandres (G. TISSANDIER) 128
+        (179) Les réservoirs de Montsouris (CH. LETORT) 184
+        (224) Tramway à vapeur à Londres 229
+        (232) Le grand établissement hydraulique de Saint-Maur 237
+        (241) La tour américaine de mille pieds de haut (G. TISSANDIER) 246
+        (247) Les curiosités métallurgiques de Moscou 252
+        (252) La télégraphie atmosphérique. -- La poste de Paris à Versailles (CH. BONTEMPS) 257
+        (276) Chemin de fer du troisième réseau 281
+        (280) Le tunnel du mont Hoosac (AD. F. DE FONPERTUIS) 285
+        (299) Les tracés graphiques des trains de chemins de fer (H. BLERZY) 304
+        (311) La canalisation de la rivière Sone dans les Indes anglaises 316
+        (330) Le chemin de fer des Andes 335
+        (376) Le Blocking System 381
+        (412) Un chemin de fer souterrain entre la France et l'Angleterre (G. TISSANDIER) 417
+            (31) Un tunnel sous l'Hudson 36
+            (45) Le chemin de fer de Calais à Marseille 50
+            (95) Résultats de l'exploitation des chemins de fer anglais 100
+            (111) La télégraphie électrique en Chine 116
+            (143) Le métal à canon 148
+            (191) Nouveau manomètre 196
+            (192) Avertisseur des incendies 197
+            (222) Assèchement des marais de Ferrare 227
+            (222) Les incendies à Londres 227
+            (238) De l'emploi des scories des hauts fourneaux pour les constructions 243
+            (238) Presse typographique à vapeur 243
+            (256) Les traîneaux à voiles américains 261
+            (270) Rapidité d'exécution des travaux de chemins de fer aux États-Unis 275
+            (286) Enclume monstre 291
+            (286) Vitesse extraordinaire des bateaux à patins 291
+            (302) Nouveau système de coupole mobile 307
+            (319) Un chemin de fer sur le Vésuve 324
+            (366) Le dock flottant de Malte 371
+            (366) Hôtel roulant 371
+            (382) Fabrication des plumes métalliques à Birmingham 387
+    Médecine et Physiologie -1
+        (1) Le système nerveux et l'électricité. -- Nouvelles expériences de MM. Dewar et Mac Kendrick. -- Nouvelles hypothèses de M. A. H. Garrod (Dr C. M. GARIEL) 6
+        (22) [idem] 27
+        (65) Mesdemoiselles Millie et Christine (BERTILLON) 70
+        (119) Un monstre 124
+        (150) Les frères Siamois 155
+        (225) [idem] 230
+        (259) [idem] 264
+        (209) Des monstruosités. -- Principes généraux de tératologie. -- Nains célèbres, Albinos, etc. -- Sirènes, cyclopes, empêtrés, etc. -- Monstres doubles (BERTILLON) 214
+        (243) [idem] 248
+        (273) [idem] 278
+        (338) [idem] 343
+        (306) Recherches expérimentales sur l'influence que les modifications dans la pression barométrique exercent sur les phénomènes de la vie (Dr Z.) 311
+        (355) [idem] 360
+        (402) [idem] 407
+        (311) La gastrotomie à propos du jeune homme qui a avalé une fourchette 316
+            (15) L'amylamine en médecine 20
+            (32) Structure de l'oeuf 37
+            (32) Poissons et poisons 37
+            (63) Le prix d'Ourches et les signes de la mort réelle 68
+            (79) Choléra 84
+            (94) Étonnante monstruosité 99
+            (110) Urine ammoniacale 115
+            (112) Le vol des oiseaux 117
+            (127) Nanisme 132
+            (158) Utilité du sel dans l'alimentation 163
+            (159) Greffe animale 164
+            (191) Guérison instantanée du mal de dent 196
+            (223) Tétanos guéri par le chloral 228
+            (238) Une race de nains 243
+            (256) Société de tempérance 261
+            (271) Les germes atmosphériques et la pourriture d'hôpital 276
+            (287) Influence physiologique de la raréfaction de l'air 292
+            (287) Transfusion du sang 292
+            (368) [idem] 373
+            (303) Effet physiologique du manque d'oxygène 308
+    Agriculture -1
+        (98) L'édredon artificiel et le drap de plume (H. DE LA BLANCHÈRE) 103
+        (108) Progrès du phylloxéra (A. DUMONT) 113
+        (146) L'alpha et la fabrication du papier (G. MARCEL) 151
+        (183) L'exploitation des moutons en Australie (G. TISSANDIER) 188
+        (247) Les insectes nuisibles devant l'Assemblée nationale (E. MENAULT) 252
+        (250) Éclosion des oeufs de vers à soie par le frottement (H. DE LA BLANCHÈRE) 255
+        (262) Les cépages américains 267
+        (342) Les gelées du printemps. Moyens d'en prévenir les effets (E. MENAULT) 347
+        (347) La mouche des pommes de terre 352
+        (378) Un nouvel ennemi de la vigne (J. E. PLANCHON) 383
+        (391) L'industrie mulassière en France, à propos du prochain concours régional de Niort (H. DE LA BLANCHÈRE) 396
+        (408) Le ver à soie brésilien (M. GIRARD) 413
+            (14) Importation et exportation des céréales 19
+            (15) Les nuages artificiels 20
+            (367) [idem] 372
+            (45) Le phylloxera vastatrix 50
+            (46) [idem] 51
+            (79) [idem] 84
+            (80) [idem] 85
+            (256) [idem] 261
+            (271) [idem] 276
+            (367) [idem] 372
+            (62) Les oeufs du yama-maï 67
+            (160) Canal insecticide 165
+            (222) Fertilisation des dunes de Dantzig 227
+            (303) Régime de l'air souterrain 308
+            (320) Associations pour le reboisement 325
+            (366) L'histoire des maladies de la vigne 371
+            (415) De la production vinicole en France 420
+    Art militaire. -- Marine -1
+        (51) Les règles de la route à la mer (L. RENARD) 56
+        (78) Les sinistres en mer 83
+        (147) Les radeaux improvisés 152
+        (237) Les voies d'eau 242
+        (280) Nouveau bateau de sauvetage en Angleterre 285
+        (308) Emploi de l'air comprimé pour les sauvetages maritimes 313
+        (384) Les derniers types des navires cuirassés de l'Angleterre 389
+            (158) Les sinistres en mer 163
+            (158) Le métal à canon 163
+            (239) Système perfectionné d'hélice propulsive 244
+            (350) Naufrage de l'Amérique 355
+    Aéronautique -1
+        (250) L'Ascension du ballon le Roi-de-Siam 255
+        (302) L'oxygène en ballon 307
+        (305) Les deux aéronautes engloutis dans l'Océan 310
+        (326) Les ascensions aérostatiques à grande hauteur (G. TISSANDIER) 331
+            (13) Le ballon de Natal 18
+            (127) Le premier aéronaute du siège de Paris 132
+            (142) Nouvelle ascension du Jules-Favre 147
+            (368) Épistaxis et navigation aérienne 373
+            (381) Singulière descente de ballon 386
+            (382) Une singulière invention Allemande 387
+    Notices nécrologiques. -- Histoire de la science -1
+        (2) Le Chatelier 7
+        (32) De Verneuil 37
+        (49) De la Rive (W. DE FONVIELLE) 54
+        (144) [idem] 149
+        (91) Agassiz (W. DE FONVIELLE) 96
+        (134) [idem] 139
+        (138) Francis Garnier 143
+        (352) [idem] 357
+        (160) Mary Somerville 165
+        (174) David Livingstone (G. TISSANDIER) 179
+        (214) J. Michelet (W. DE FONVIELLE) 219
+        (226) Quetelet 231
+        (298) Jean-Henri Maedler (W. DE FONVIELLE) 303
+        (308) Cruveilhier 313
+            (30) Reliques de l'expédition de Franklin 35
+            (31) M. Gay 36
+            (63) Les restes d'un grand homme 68
+            (96) Fernand Papillon 101
+            (303) Mort de Hansen 308
+    Sociétés savantes. -- Associations scientifiques. -- Expositions universelles -1
+        (16) Académie des sciences. Séances hebdomadaires. (S. MEUNIER) 21
+        (31) [idem] 36
+        (47) [idem] 52
+        (79) [idem] 84
+        (95) [idem] 100
+        (96) [idem] 101
+        (111) [idem] 116
+        (127) [idem] 132
+        (142) [idem] 147
+        (159) [idem] 164
+        (191) [idem] 196
+        (192) [idem] 197
+        (207) [idem] 212
+        (223) [idem] 228
+        (239) [idem] 244
+        (256) [idem] 261
+        (271) [idem] 276
+        (286) [idem] 291
+        (303) [idem] 308
+        (320) [idem] 325
+        (335) [idem] 340
+        (351) [idem] 356
+        (367) [idem] 372
+        (383) [idem] 388
+        (399) [idem] 404
+        (416) [idem] 421
+        (266) Congrès d'anthropologie à Stokholm 271
+        (317) La réunion des Sociétés savantes à la Sorbonne (W. DE FONVIELLE) 322
+        (334) [idem] 339
+        (346) [idem] 351
+        (362) [idem] 367
+            (45) Exposition internationale d'horticulture de Florence 50
+            (46) Séance solennelle de la Société royale de Londres 51
+            (63) Le successeur de Donati 68
+            (95) Le nouveau président de la Société royale de Londres 100
+            (96) Élection de M. Frémy 101
+            (110) Le nouvel Athenæum autrichien 115
+            (127) Académie des sciences de Saint-Pétersbourg 132
+            (142) Élection de M. Paul Gervais 147
+            (143) Fondation de prix 148
+            (238) Musée antédiluvien de Central Park à New-York 243
+            (320) Exposition universelle de Philadelphie 325
+    Variétés. -- Généralités -1
+        (23) Les têtes humaines préparées par les Indiens Jivaros 28
+        (69) Les pigeons voyageurs et le nouveau service de dépêches de la Presse 74
+        (116) La grande pyramide d'Egypte (H. BLERZY) 121
+        (122) Les gisements de houille dans l'extrême Orient 127
+        (166) Reliefs à pièces mobiles pour l'enseignement de la géométrie descriptive (S. MEUNIER) 171
+        (203) Les ossuaires de la campagne d'Italie 208
+        (212) Le géant de Wilmington (G. TISSANDIER) 217
+        (46) Correspondance 51
+        (64) [idem] 69
+        (336) [idem] 341
+        (352) [idem] 357
+        (367) [idem] 372
+        (383) [idem] 388
+        (390) [idem] 395
+            (30) Un centenaire 35
+            (63) Le musée d'ethnographie du Louvre 68
+            (63) Nouveau chauffage économique 68
+            (78) L'université de Strasbourg française et allemande 83
+            (79) Populations 84
+            (79) Statistique de l'hippophagie 84
+            (80) Quadrature du cercle 85
+            (110) Deux naufrages successifs 115
+            (110) Découverte de mines de houilles en Scanie 115
+            (111) Falsifications du thé en Chine 116
+            (126) Un mouton à huit pattes 131
+            (127) Le Loch-Earn et la Ville du Havre 132
+            (143) Statistique parisienne 148
+            (174) Décroissance de la mortalité à Londres 179
+            (190) La guerre des Ashantis 195
+            (190) Le linoléum 195
+            (286) Le millénaire de l'Islande 291
+            (303) Récompense nationale donnée à M. Pasteur 308
+            (319) Qualités morales nécessaires aux savants 324
+            (319) Nouveaux produits de l'art préhistorique 324
+            (319) Un boule-dogue héroïque 324
+            (351) Sépulture antéhistorique 356
+        (383) Sur les vestiges d'un temple au sommet du Puy-de-Dôme 388
+    Bibliographie -1
+        (10) Les merveilles de la photographie par G. TISSANDIER 15
+        (27) Les applications de la physique par A. GUILLEMIN 32
+        (43) Les merveilles de l'industrie par L. FIGUIER 48
+        (77) Traité élémentaire d'entomologie par M. GIRARD 82
+        (220) Les métamorphoses des insectes par M. GIRARD 225
+            (46) Notices bibliographiques 51
+            (64) [idem] 69
+            (206) [idem] 211
+            (239) [idem] 244
+            (350) [idem] 355
+            (367) [idem] 372
+[Table des illustrations] 1
+    (4) Différents aspects de la comète de MM. P. Henry. 9
+    (5) Tronc de palmier fossile. (Endogenites echinatus.) 10
+    (8) Caprella spinosissima, Norman. (Double de la grandeur naturelle.) 13
+    (9) Nymphon abyssorum. Norman. (Un peu plus grand que nature.) 14
+    (11) 1 / Cabinet noir du photographe. 16
+    (12) 2 / Fac-simile d'une dépêche photomicroscopique du siège de Paris. 17
+    (12) 3 / Le photographe dans les voyages d'exploration. 17
+    (13) 4 / Photographie au magnésium dans les catacombes. 18
+    (17) Baie Moresby (Nouvelle-Guinée), visitée pour la première fois par le Basilic. (D'après une photographie du lieutenant Mourilyan, membre de l'expédition.) 22
+    (25) Chancha ou tête réduite par les indiens Jivaros. (Grandeur naturelle de la préparation.) 30
+    (28) Chemin de fer atmosphérique de New York. 33
+    (28) Le tube intérieur d'un wagon. 33
+    (28) Explosion des torpilles par l'électricité. -- Système de défense des ports et des côtes du général Chazal. 33
+    (29) Balance Roseleur servant à déposer un poids déterminé d'argent, dans l'opération de l'argenture galvanique. 34
+    (33) 1. Dinoceras mirabilis. -- 2. Loxolophodon cornutus. 38
+    (36) Tube à effluves de M. A. Thénard, 41
+    (37) Appareil employé par MM. Thénard pour faire circuler le gaz dans les tubes à effluves. 42
+    (41) La grande tortue franche de la rue Vivienne. 46
+    (44) Fabrication du savon de suif dans une usine des environs de Paris. (Opérations de la coction du savon et du coulage dans les mises.) 49
+    (45) Intérieur d'une fabrique de savon de toilette (salle des machines chez un parfumeur de Paris). 50
+    (48) Fabrication des briques creuses. 53
+    (49) Maison de la Rive (d'après une photographie). 54
+    (54) Vénus et ses phases. 59
+    (55) Passage de Vénus sur le soleil. 60
+    (57) DIAMANT cristallisé engagé dans un grès verdâtre et provenant des mines du cap de Bonne-Espérance. (Grandeur naturelle.) 62
+    (57) PTYCHOGNATHUS DEPRESSUS (Fischer). Crâne fossile découvert dans les couches triasiques du cap de Bonne-Espérance. (Deux tiers de grandeur naturelle.) 62
+    (61) Coupe géologique à travers les Pyrénées. 66
+    (65) Mesdemoiselles Millie et Christine. 70
+    (69) Le pigeon voyageur au vol. 74
+    (70) Le pigeon migrateur. 75
+    (72) Exploitation de la tourbe au Canada. -- Bateau mécanique destiné à couper la tourbe, à l'extraire et à creuser un canal dans la tourbière. 77
+    (73) Exploitation de la tourbe au Canada. -- Découpage des briquettes dans le lit de tourbe. 78
+    (81) Nouvel appareil anglais pour l'inhalation du protoxyde d'azote. 86
+    (84) 1 / Oeuf du premier jour, observé à 4 heures et demie du soir. 89
+    (84) 2 / Oeuf observé le deuxième jour après la fécondation, à 6 heures du matin ; y, y, les yeux ; e, éminence plus claire qui les sépare ; q, saillie représentant la queue ; b, blastoderme ; v, vitellus  89
+    (85) 3 / Embryon près d'éclore. La tête t et le corps sont enroulés autour du vitellus ; t, p, taches pigmentaires ; y, y, yeux ; c', coeur ; v, vésicule ombilicale déjà semée de taches pigmentaires et ren 90
+    (85) 4 / Embryon éclos, âgé de quatre heures de plus que le précédent. Les mêmes lettres indiquent les mêmes parties que dans la fig. 3: ao, artère aorte, qui se continue en formant une anse a avec la vein 90
+    (85) 5 / Embryon larvaire de Macropode, âgé de huit jours ; b, bouche ; y, y, yeux ; fo, fossettes olfactives ; ca, capsules auditives: mc, masses cérébrales peu distinctes et vues par transparence ; op, o 90
+    (86) 6 / Larve ou têtard de Macropode, âgé de près d'un mois. Les lettres indiquent les mêmes parties que dans la fig. 5 ; 1, lobes olfactifs ; 2, lobes optiques ; 3, hémisphères cérébraux ; 4, cervelet. L 91
+    (86) 7 / Portion postérieure de la queue d'un embryon larvaire, âgé de huit jours ; cd, corde dorsale ; rp, rayons primitifs de la future nageoire caudale, vus à travers la nageoire embryonnaire. 91
+    (86) Fig. 8, 9, 10. -- Nageoires pectorales à divers degrés de développement. En m, on voit la fine membrane qui réunit les rayons r, jusqu'alors isolés. 91
+    (86) 11 / Taches pigmentaires, ou chromoblastes, à divers degrés de développement. 91
+    (87) 12 / Macropode mâle. (Grandeur naturelle.) 92
+    (89) Vues de Zanzibar. 94
+    (92) La pierre d'Agassiz, ou l'Hôtel des Neuchâtelois 97
+    (93) Agassiz, à l'âge de 40 ans. 98
+    (97) Palæotherium magnum des carrières de Vitry-sur-Seine. (D'après une photographie faite à la lumière électrique dans les galeries de la carrière, par MM. Molteni et Serrin.) 102
+    (101) Sondages océaniques. -- La drague ramenée sur le pont du navire. 106
+    (104) Phare de Race Rock. 109
+    (105) Phare de Thimble Shoal. 110
+    (109) 1 / Argonauta argo. 114
+    (109) 2 / Belemnoteuthis. 114
+    (109) 3 / Dolium perdix. 114
+    (109) 4 / Eucyclus goniatus. 114
+    (112) Haut fourneau Buttgenbaen. 117
+    (113) La poule d'eau de l'île Maurice, d'après Leguat. 118
+    (117) 1 / Coupe verticale de la grande Pyramide. A. Passage d'entrée -- B. Trou d'Al Mamoun. -- C. Pierre d'angle. -- D. Passage supérieur. -- E. Passage horizontal -- F. Chambre de la Reine -- G. Grande ga 122
+    (118) 2 / La chambre du roi. 123
+    (120) La maison de Livingstone à Oujiji. 125
+    (121) Voyage de M. Stanley à la recherche de Livingstone. -- L'explorateur apercevant le Tanganyika 126
+    (124) Nouveau Scaphandre de la Vulcan Company muni du masque à verres grillagés. 129
+    (125) Détails de l'équipement du plongeur, tels qu'ils ont été exposés à Vienne. 130
+    (129) Exploseur magnéto-électrique. 134
+    (132) Fig. 1 et 2. -- Ammonite et pomme de pin fossile. 137
+    (133) 3 / Diceras arietina. 138
+    (141) Coq et poule des Jungles (Ceylan). 146
+    (144) De la Rive. 149
+    (145) Le pyrophone. 150
+    (148) Nouveau système de radeau instantané. -- 1° Le radeau formant la passerelle. -- 2° Le radeau à la mer. 153
+    (149) Nouvelles espèces de coquillages en Océanie 154
+    (153) Les Dames de Meuse. (D'après nature.) 158
+    (157) Nouveau moteur électro-capillaire. 162
+    (160) Mary Somerville. 165
+    (161) Étoiles multiples colorées. 166
+    (165) Positions observées et orbite apparente de l'étoile double zéta d'Hercule. 170
+    (169) Presse photoglyptique, destinée au tirage des épreuves photographiques, reproduites en creux sur métal. 174
+    (170) Ceratodus forsteri. Longueur 1m,20. 175
+    (173) 1 / Infusoires divers. 178
+    (173) 2 / Infusoires d'organisation supérieure Corethra plumicornis. 178
+    (173) 3 / Infusoires rudimentaires doués de motilité. 178
+    (173) 4 / Vorticelles adhérentes à un noyau central par une queue rétractile. 178
+    (173) 5 / Diatomées et Navicules des eaux stagnantes. 178
+    (174) 6 / Diatomée. Arachnoidiscus Ehrenbergii X 300. 179
+    (174) 7 / Spirogyra avec l'endochrome. 179
+    (174) 8 / Spirogyra conjugués à différentes périodes de croissance. 179
+    (176) David Livingstone. (D'après une photographie.) 181
+    (177) Vue d'ensemble du nouveau Mégathérium dans les galeries du Muséum. 182
+    (181) Le grand réservoir de Montsouris. 186
+    (182) Le Gull-Stream. 187
+    (184) Exploitation des moutons à New-South-Wales, en Australie. -- La tonte. 189
+    (185) Exploitation des moutons à New-South-Wales, en Australie. -- Le lavage. A. Machine à vapeur destinée à élever l'eau de la rivière. -- e, e, e. Cylindres en fer où se tiennent les hommes tarant les mou 190
+    (193) 1 / Orchis maculata. Figure montrant des abeilles qui emportent sur leur tête deux masses polliniques d'une fleur pour les déposer sur le stigmate d'une autre fleur. 198
+    (193) 2 / Aristolochia Clematitis. Figure montrant des mouches chargées du pollen de fleurs d'aristoloche, pénétrant dans le cornet du périanthe pour y déposer le pollen. 198
+    (194) 3 / Coupes verticales de deux fleurs d'Aristolochia Clemalitis. -- 1. Jeune, avant la fécondation. -- Le cornet est ouvert. 2. Plus âgée, après la fécondation. -- Le cornet est refermé. 199
+    (196) Crâne de l'oiseau à dents. 201
+    (197) Tentacule arraché au calmar de Conception-Bay, et mesurant plus de 5 mètres et demi de longueur. 202
+    (201) Un nouvel oiseau de Paradis. Epimachus Ellioti. 206
+    (204) La grande rotonde de l'ossuaire de Solferino. 209
+    (205) Le squelette du géant autrichien. 210
+    (205) L'expédition du docteur Hayes, au milieu des champs de glace. 210
+    (208) Émeraude du Muséum d'histoire naturelle. (Grandeur naturelle.) 213
+    (213) Le géant de Wilmington. 218
+    (214) J. Michelet. 219
+    (216) L'orme de Boston. 221
+    (216) Le tilleul de Neuenstadt, dans le Wurtemberg. 221
+    (217) Le chêne d'Autrage, en Alsace. 222
+    (220) 1 / Cécidomye du froment ; mâle, femelle, larve, très-grossis. 225
+    (220) 2 / Ponte des Cécidomyes du froment et de leurs parasites. -- Larves rongeant les grains entre les glumes. -- Grain attaqué, avec deux nymphes, et grain sain. 225
+    (220) 3 / Larve de puce du chat naissante, très-grossie. 225
+    (221) 4 / Tête grossie de la larve naissante de la puce de l'homme et tubercule de profil. 226
+    (224) Tramway à vapeur expérimenté à Londres. 229
+    (225) Chang et Eng Bunker, les deux frères Siamois, nés à Siam, en 1811, morts aux États-Unis, en janvier 1874. 230
+    (228) Carte de la région des geysers, aux États-Unis. 233
+    (229) Fragment des bassins à stalactites du Gardiner-River. 234
+    (229) Concrétions calcaires formées par les eaux incrustantes du Turban geyser. 234
+    (231) Maxillaire inférieur de la grotte de Rocca-Blanca (Hérault). 236
+    (233) Le grand établissement hydraulique de Saint-Maur. 238
+    (237) Le Lord-Clyde en réparation. 242
+    (241) La tour de 1,000 pieds à l'Exposition universelle de Philadelphie. -- Sa hauteur comparée à celle des principaux monuments du monde. 246
+    (245) Difformités de la main et du pied. 250
+    (248) Czar Kolokol. La grande cloche de Moscou, pesant 200,000 kilogrammes. 253
+    (249) Czar Pushka. Le canon de Moscou du seizième siècle, pesant 40 tonnes. Visite du prince et de la princesse d'Édimbourg. 254
+    (253) Relais pour le transport des dépêches par tubes pneumatiques. Nouveau système A. Crespin, projeté entre Paris et Versailles. -- 1. Coupe. -- 2. Élévation. -- 3. Plan. 258
+    (257) Le grand figuier de Cook, à la Pointe-de-Vénus (baie de Matavaï, à Tahiti), où s'observa le passage de 1769. 262
+    (261) Aurore boréale observée à Orléans le 4 février 1872. (D'après une aquarelle de M. Godefroy.) 266
+    (261) Aurore boréale observée à Orléans le 4 février 1874. (D'après une aquarelle de M. Godefroy.) 266
+    (264) Le glacier de Sermitsialik au Groënland. 269
+    (268) Crâne du Néanderthal. (Vu de face ; demie-grandeur.) 273
+    (269) Crâne du dolmen de Bougon (Deux-Sèvres). (Vue de profil ; demi-grandeur.) 274
+    (272) Tête de cerf Wapiti. (D'après la pièce montée du capitaine Butler.) 277
+    (273) 1 / Omphalosite. -- Monstre acéphale. 278
+    (273) 2 / 1. Cyclope. -- 2. Sirène. -- 3. Bec-de-lièvre simple. 278
+    (275) 3 / Face d'un embryon normal de 35 jours. -- 1. Premier rudiment du nez. -- 2. Premier rudiment des ailes du nez. -- 3. Bourgeon médian. -- 4. Fente qui sépare le bourgeon latéral et le bourgeon média 280
+    (277) Terrier de Skye à oreilles droites. 282
+    (281) Expérience d'un nouveau bateau de sauvetage, à Liverpool. 286
+    (285) Brontotherium ingens. -- Crâne vu de haut et de côté. 290
+    (288) Nouveaux crustacés des côtes de France. -- 1 et 2. Cymodocée tronquée, femelle et mâle, grossis six fois. -- 3 et 4. Nésée bidentée, femelle grossie six fois, mâle amplifié huit fois. -- 5. Nésée proc 293
+    (289) Un reporter anglais envoyant des nouvelles au Newcastle Chronicle. 294
+    (289) Office de réception des dépêches du Newcastle Chronicle, à Londres, 294
+    (292) 1 / Mouche feuille (Phyllum crurifolium). Femelle un peu grossie. 297
+    (293) 2 / 2. Mouche feuille (Phyllium scythe). Mâle, d'après Murray. -- 3. Antenne de la femelle adulte. -- 4, 5, 6. Antenne du mâle à la première mue, à la seconde mue et à l'âge adulte. 298
+    (294) Pièce dont se compose la bouche du Phyllium crurifolium. a, labre supérieur. -- bb, mandibules en place. 299
+    (294) L'une des mâchoires (celle du côté gauche). a, accompagnée du palpe interne. -- b (galea). -- c. palpe externe. 299
+    (294) Lèvre inférieure. a, menton, -- bb, ses quatre lobes. -- cc, pulpes labiaux. 299
+    (294) Extrémité postérieure de l'abdomen de la femelle. aa, élytres. -- bb, les deux folioles qui terminent l'abdomen. 299
+    (294) Oeuf du Phyllium scythe, très-grossi. 299
+    (294) Oeuf de Phyllium crurifolium, très-grossi. 299
+    (295) Oeufs du même, moins grossis, montrant l'enveloppe subéreuse externe et la coque. 300
+    (295) Coupe transversale de l'oeuf vers le milieu de sa longueur, enveloppe externe. -- b. Coque de l'oeuf. 300
+    (295) Quelques-unes des gaines ovigères, renfermant des oeufs à divers degrés de développement. 300
+    (295) Stigmate ou ostiole respiratoire. a, péritrème. -- b, ouverture du stigmate. 300
+    (295) Coque ovigère de la blatte des cuisines (B. Orientalis), Grossie. 300
+    (297) Primevères et Pensées visitées par les insectes. 302
+    (298) Coupe verticale d'une fleur de Pensée. Pistil très-grossi. 303
+    (298) Primevère. -- 1. Fleur macrostyle. -- 2. Fleur microslyle. 303
+    (300) Exemple d'un tracé graphique, employé pour la marche des trains. 305
+    (301) Appareils de M. Stevenson pour la mesure des températures océaniques. 306
+    (304) Formation de glaçons sur le pont du steamer l'Océanique. 309
+    (305) Alexandre Prince, perdu en mer avec le ballon Jacquard, le 30 novembre 1870. 310
+    (305) Émile Lacaze, perdu en mer avec le ballon Richard Wallace, le 28 janvier 1871. 310
+    (309) Le radeau de sauvetage suspendu au-dessus du mur de bordage. 314
+    (309) Vue du radeau de sauvetage mis à l'eau. 314
+    (312) Le grand barrage de la Sone, dans les Indes anglaises. -- Vue d'ensemble des travaux, en 1873. 317
+    (313) Système employé pour remplir et cimenter les caisses de béton du barrage de la Sone. 318
+    (316) Tête de tapir du Brésil. 321
+    (317) La réunion des Sociétés savantes dans le grand amphithéâtre de la Sorbonne. 322
+    (321) Appareil de M. Norman Lockyer, pour l'essai des alliages d'or et d'argent, par l'analyse spectrale. 326
+    (325) Le bassin du grand geyser américain. (D'après une photographie.) 330
+    (328) Biot et Gay-Lussac exécutant des expériences à l'altitude de 4,000 mètres. -- 20 septembre 1807. 333
+    (329) M. Glaisher, évanoui dans sa nacelle, à l'altitude de 10,000 mètres. -- 5 septembre 1862. 334
+    (332) Tentacules de l'octopode chez un marchant de poissons. Fac-simile de deux gravures d'un livre japonais. 337
+    (333) Jupiter et ses satellites, le 25 mars 1874. 338
+    (337) Plantes microscopiques dans l'état où elles se trouvent au sein des eaux stagnantes : Hydrodictées, Conferves, Diatomées, Characées et Infusoires divers. 342
+    (339) 1 / Ectopage, d'après un dessin de Henri Regnault. 344
+    (339) 2 / Ischiadelphe (Ritta et Cristina), d'après Isidore Geoffroy-Saint-Hilaire. 344
+    (339) 3 / Coupe transversale d'un sternopage. 344
+    (341) 4 / Janiceps. 346
+    (341) 5 / L'épicome du Bengale, d'après Home. 346
+    (344) La coiffure d'une femme fantis. 349
+    (344) Danse sacrée des femmes fantis. 349
+    (345) Ablution des Anglais au cap Corse. 350
+    (345) Un tisserand fantis. 350
+    (348) 1 / La lune vue dans, une lunette astronomique, à une époque comprise entre la nouvelle lune et le premier quartier. 353
+    (349) 2 / Nébuleuse de la constellation d'Orion. 354
+    (349) 3 / Nébuleuse de l'Ecu de Sobieski. 354
+    (350) 4 / Nébuleuse d'Andromède. 355
+    (353) Le chronographe du Dr Marey. 358
+    (356) 1 / Appareil de M. P. Bert pour l'étude de l'influence exercée par les diminutions de pression atmosphérique sur les êtres vivants. A, A'. Cylindres en tôle boulonnée, avec hublots on verre. -- B. Cyl 361
+    (357) 2 / Support destiné à l'expérimentation sur un chien. 362
+    (361) Nouvel échantillon acquis par le Muséum d'histoire naturelle. -- Empreintes de poissons fossiles, sur un banc de calcaire grossier des environs de Paris, Longueur 2m,80. 366
+    (364) 1 / Oculine. 369
+    (365) 2 / Éponge-dentelle et éponge commune fixées sur un vase antique, retrouvé au fond de la mer. 370
+    (365) 3 / Grotte des bas-fonds des mers équatoriales. 370
+    (368) Type caffre. -- Le révolté Langalibalele. 373
+    (369) Dionée attrape-mouches. 374
+    (373) Monaul ou Lophophore resplendissant, récemment arrivé au Jardin d'acclimatation. 378
+    (377) Un nouveau projet de télescope américain. 382
+    (380) Clubione nourrice. -- 1. Mâle. -- 2. Femelle. -- 3. Cocon nuptial. 385
+    (384) Le Thunderer, nouveau navire à tourelle de la marine anglaise. 389
+    (385) Crâne de l'éléphant fossile de Durfort. 390
+    (386) Coupe suivant l'axe de la route où l'éléphant fossile du Gard a été découvert. (Échelle de 0m,00025 pour 1 mètre.) 391
+    (387) Coupe en travers de la route. 392
+    (389) Un paysage des Bermudes. -- L'arbre à caoutchouc. 394
+    (392) Anon d'un an du Poitou. 397
+    (393) Jument mulassière du Poitou et son petit. 398
+    (396) 1 / Le sidérostat. 401
+    (397) 3 / Mouvement d'horlogerie à régulateur isochrone. 402
+    (400) Le palmier de la Chine. 405
+    (401) Passage de Vénus observé en pleine mer par Le Gentil, en 1761. 406
+    (404) 1 / Grand appareil à air comprimé de M. P. Bert (cylindre de tôle d'acier supportant 12 atmosphères). A. Courroie de transmission de la machine à vapeur. -- B. Système d'engrenage. -- C. Pompe Denayro 409
+    (405) 2 / Appareil de M. P. Bert pour l'étude des hautes pressions (jusqu'à 25 atmosphères) en charge d'air suroxygéné. Courant d'eau froide enveloppant la pompe pour éviter l'échauffement de l'air comprimé 410
+    (409) Attacus aurota. Papillon mâle (sujet très petit). -- Cocon. -- Chenille sur le ricin. 414
+    (413) Coupe d'un tunnel entre la France et l'Angleterre. (Projet Thomé de Gamond.) 418
+    (414) Coupe transversale du tunnel. 419
+    (414) Vue panoramique du tunnel sous-marin. (Projet Thomé de Gamond.) 419
